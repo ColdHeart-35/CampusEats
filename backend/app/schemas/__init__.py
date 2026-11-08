@@ -1,0 +1,1 @@
+"""CampusEats Pydantic Schemas Package."""
